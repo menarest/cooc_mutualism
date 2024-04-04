@@ -1,8 +1,8 @@
-# cooc_mutualism
+# Supplementary code for analyses of Menares et al. 2024, "Co-occurrence patterns do not predict mutualistic interactions between plant and butterfly species".
 
-#Supplementary code for analyses of Menares et al. 2024, "Co-occurrence patterns do not predict mutualistic interactions between plant and butterfly species".
+This repository contains the analysis done for Menares et al. (2024), which compares the accuracy of existing co-occurrence methods for estimating pairwise species interactions between plants and butterfly species from observational occurrence (P/A and abundance) data against species interactions estimated experimentally from long-term flower visitation data. 
 
-Menares et al. (2024) compares the accuracy of existing co-occurrence methods for estimating pairwise species interactions between plants and butterfly species from observational occurrence (P/A and abundance) data against species interactions estimated experimentally from long-term flower visitation data. 
+# Requirements: 
 
 To run all analyses from scratch including data wrangling and prepararion steps, you will need to download the data from BExIS using the IDs (and version): 
 
@@ -15,8 +15,11 @@ To run all analyses from scratch including data wrangling and prepararion steps,
 -   Imago SCH: 31736 (2)
 -   Larva SCH: 31737 (2)
 - flower availability: 4302 (2) and 4964 (2)
+- flower visitation: 10160 (3)
+
+NOTE: check that the datasets are named the same as in the scripts so you can run the analyses with no problem. 
 
 If you prefer to run only the accuracy and data validation analyses use this dataset from BExIS: 31738 (3) #TODO add DOI once available
 
-Steps: 
-# Add steps : 
+# Steps: 
+#TODO... add steps on how to run the scripts... tidy.. 1, 2, 3.. etc
