@@ -1,0 +1,147 @@
+{
+  "Id": 90,
+  "Title": "4981 data structure",
+  "Description": "Data structure for structured data",
+  "inUse": true,
+  "Structured": true,
+  "Variables": [
+    {
+      "Id": 1413,
+      "Label": "Plot_ID",
+      "Description": "",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 1414,
+      "Label": "EP_ID",
+      "Description": "",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 1415,
+      "Label": "Date",
+      "Description": "sampling date",
+      "isOptional": true,
+      "unit": {
+        "Id": 45,
+        "Name": "date ISO y-m-d",
+        "Description": "date following the ISO norm",
+        "Dimension": {
+          "Name": "date time",
+          "Description": "format for date and time representation; SI unit: YYYY-MM-DD hh:mm:ss; BEXIS units: mm:ss, hh:mm:ss,  hh:mm, yyyy, yyyy-MM-dd, yyyy-MM-ddThh:mm:ss",
+          "Specification": "dimensionless"
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 10,
+        "Name": "date-iso",
+        "Description": "",
+        "SystemType": "DateTime"
+      }
+    },
+    {
+      "Id": 1416,
+      "Label": "Sum",
+      "Description": "sum of flowerimg units;see theory for definition of flowering unit",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 1417,
+      "Label": "Species",
+      "Description": "species name",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 1418,
+      "Label": "Flowering_unit",
+      "Description": "number of flowering units per species and plot; see theory for definition of flowering units",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    }
+  ]
+}

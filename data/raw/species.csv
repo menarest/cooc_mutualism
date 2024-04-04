@@ -1,0 +1,259 @@
+﻿"species_id","region","taxa","species_name","synonym1","synonym2","family","de_name1","de_name2","de_name3","de_name4","comment"
+"ALBP001Amil","ALB","plant","Achillea_millefolium",NA,NA,"Asteraceae","Wiesen-Schafgarbe","Gewöhnliche Schafgarbe",NA,NA,"aggr."
+"ALBP002Aarv","ALB","plant","Acinos_arvensis","Calamintha_acinos",NA,"Lamiaceae","Feld-Steinquendel","Gemeiner Steinquendel",NA,NA,NA
+"ALBP003Apod","ALB","plant","Aegopodium_podagraria",NA,NA,"Apiaceae","Gewöhnlicher Giersch","Gewöhnlicher Geißfuß",NA,NA,NA
+"ALBP004Aeup","ALB","plant","Agrimonia_eupatoria",NA,NA,"Rosaceae","Gewöhnliche Odermennig",NA,NA,NA,NA
+"ALBP008Arep","ALB","plant","Ajuga_reptans",NA,NA,"Lamiaceae","Kriechende Günsel",NA,NA,NA,NA
+"ALBP010Apra","ALB","plant","Alopecurus_pratensis",NA,NA,"Poaceae","Wiesen-Fuchsschwanz",NA,NA,NA,NA
+"ALBP014Aodo","ALB","plant","Anthoxanthum_odoratum",NA,NA,"Poaceae","Gewöhnliche Ruchgras",NA,NA,NA,NA
+"ALBP015Asyl","ALB","plant","Anthriscus_sylvestris",NA,NA,"Apiaceae","Wiesen-Kerbel",NA,NA,NA,NA
+"ALBP016Avul","ALB","plant","Anthyllis_vulneraria",NA,NA,"Fabaceae","Gewöhnlicher Wundklee",NA,NA,NA,NA
+"ALBP023Aser","ALB","plant","Arenaria_serpyllifolia",NA,NA,"Asteraceae","Quendel-Sandkraut",NA,NA,NA,NA
+"ALBP025Aela","ALB","plant","Arrhenatherum_elatius",NA,NA,"Poaceae","Glatthafer","Französisches Raygras",NA,NA,NA
+"ALBP026Acyn","ALB","plant","Asperula_cynanchica",NA,NA,"Rubiaceae","Hügel-Meister","Hügel-Meier",NA,NA,NA
+"ALBP029Bper","ALB","plant","Bellis_perennis",NA,NA,"Asteraceae","Gänseblümchen",NA,NA,NA,NA
+"ALBP031Boff","ALB","plant","Betonica_officinalis",NA,NA,"Lamiaceae","Heilziest","Heil-Ziest",NA,NA,NA
+"ALBP032Boff","ALB","plant","Bistorta_officinalis","Persicaria_bistorta","Polygonum_bistorta","Polygonaceae","Wiesen-Knöterich","Schlangen-Knöterich","Schlangen-Wiesenknöterich",NA,NA
+"ALBP033Bpin","ALB","plant","Brachypodium_pinnatum",NA,NA,"Poaceae","Fieder-Zwenke",NA,NA,NA,NA
+"ALBP035Bmed","ALB","plant","Briza_media",NA,NA,"Poaceae","Zittergras",NA,NA,NA,NA
+"ALBP036Bere","ALB","plant","Bromus_erectus",NA,NA,"Poaceae","Aufrechte Trespe",NA,NA,NA,NA
+"ALBP037Bhor","ALB","plant","Bromus_hordeaceus",NA,NA,"Poaceae","Weiche Trespe",NA,NA,NA,"aggr. incl B. Commutatus"
+"ALBP041Cpat","ALB","plant","Campanula_patula",NA,NA,"Campanulaceae","Wiesen-Glockenblume",NA,NA,NA,NA
+"ALBP043Crot","ALB","plant","Campanula_rotundifolia",NA,NA,"Campanulaceae","Rundblättrige Glockenblume",NA,NA,NA,NA
+"ALBP045Cbur","ALB","plant","Capsella_bursa_pastoris","Capsella_bursa-pastoris",NA,"Brassicaceae","Hirtentäschel",NA,NA,NA,NA
+"ALBP047Cpra","ALB","plant","Cardamine_pratensis",NA,NA,"Brassicaceae","Wiesen-Schaumkraut",NA,NA,NA,NA
+"ALBP049Cfla","ALB","plant","Carex_flacca",NA,NA,"Cyperaceae","Blau-Segge",NA,NA,NA,NA
+"ALBP051Cmon","ALB","plant","Carex_montana",NA,NA,"Cyperaceae","Berg-Segge",NA,NA,NA,NA
+"ALBP052Csyl","ALB","plant","Carex_sylvatica",NA,NA,"Cyperaceae","Wald-Segge",NA,NA,NA,NA
+"ALBP053Caca","ALB","plant","Carlina_acaulis",NA,NA,"Asteraceae","Silberdistel","Große Wetterdistel","Hochstengelige Eberwurz",NA,NA
+"ALBP054Cvul","ALB","plant","Carlina_vulgaris",NA,NA,"Asteraceae","Golddistel","Kleine Wetterdistel",NA,NA,NA
+"ALBP055Ccar","ALB","plant","Carum_carvi",NA,NA,"Apiaceae","Wiesen-Kümmel",NA,NA,NA,NA
+"ALBP059Carv","ALB","plant","Cerastium_arvense",NA,NA,"Caryophyllaceae","Acker-Hornkraut",NA,NA,NA,NA
+"ALBP060Chol","ALB","plant","Cerastium_holosteoides","Cerastium_fontanum",NA,"Caryophyllaceae","Gewöhnliches Hornkraut",NA,NA,NA,NA
+"ALBP065Caca","ALB","plant","Cirsium_acaule","Cirsium_acaulon",NA,"Asteraceae","Stängellose Kratzdistel",NA,NA,NA,NA
+"ALBP066Carv","ALB","plant","Cirsium_arvense",NA,NA,"Asteraceae","Acker-Kratzdistel",NA,NA,NA,NA
+"ALBP067Ceri","ALB","plant","Cirsium_eriophorum",NA,NA,"Asteraceae","Wollköpfige Kratzdistel",NA,NA,NA,NA
+"ALBP069Cpal","ALB","plant","Cirsium_palustre",NA,NA,"Asteraceae","Sumpf-Kratzdistel",NA,NA,NA,NA
+"ALBP070Cvul","ALB","plant","Cirsium_vulgare",NA,NA,"Asteraceae","Gewöhnliche Kratzdistel",NA,NA,NA,NA
+"ALBP071Caut","ALB","plant","Colchicum_autumnale",NA,NA,"Colchicaceae","Herbst-Zeitlose",NA,NA,NA,NA
+"ALBP072Carv","ALB","plant","Convolvulus_arvensis",NA,NA,"Convolvulaceae","Acker-Winde",NA,NA,NA,NA
+"ALBP075Cbie","ALB","plant","Crepis_biennis",NA,NA,"Asteraceae","Wiesen-Pippau","Zweijähriger Pippau",NA,NA,NA
+"ALBP077Clae","ALB","plant","Cruciata_laevipes",NA,NA,"Rubiaceae","Kreuz-Labkraut",NA,NA,NA,NA
+"ALBP078Dglo","ALB","plant","Dactylis_glomerata",NA,NA,"Poaceae","Wiesen-Knäuelgras",NA,NA,NA,NA
+"ALBP079Dcar","ALB","plant","Daucus_carota","Daucus_carota_subsp._carota","0.749","Apiaceae","Wilde Möhre",NA,NA,NA,"subsp. carota"
+"ALBP080Dces","ALB","plant","Deschampsia_cespitosa",NA,NA,"Poaceae","Rasen-Schmiele",NA,NA,NA,NA
+"ALBP090Ecyp","ALB","plant","Euphorbia_cyparissias",NA,NA,"Euphorbiaceae","Zypressen-Wolfsmilch",NA,NA,NA,NA
+"ALBP093Eros","ALB","plant","Euphrasia_rostkoviana","Euphrasia_officinalis_aggr.",NA,"Euphorbiaceae","Wiesen-Augentrost",NA,NA,NA,"aggr."
+"ALBP098Fovi","ALB","plant","Festuca_ovina",NA,NA,"Poaceae","Schaf-Schwingel",NA,NA,NA,"aggr."
+"ALBP099Fpra","ALB","plant","Festuca_pratensis",NA,NA,"Poaceae","Wiesen-Schwingel",NA,NA,NA,NA
+"ALBP100Frub","ALB","plant","Festuca_rubra",NA,NA,"Poaceae","Roter Schwingel",NA,NA,NA,"aggr."
+"ALBP106Gmol","ALB","plant","Galium_mollugo",NA,NA,"Rubiaceae","Wiesen-Labkraut",NA,NA,NA,"aggr."
+"ALBP107Gpum","ALB","plant","Galium_pumilum",NA,NA,"Rubiaceae","Niederes Labkraut","Heide-Labkraut",NA,NA,NA
+"ALBP108Gver","ALB","plant","Galium_verum",NA,NA,"Rubiaceae","Echtes Labkraut",NA,NA,NA,NA
+"ALBP110Gdis","ALB","plant","Geranium_dissectum",NA,NA,"Geraniaceae","Schlitzblättrige Storchschnabel",NA,NA,NA,NA
+"ALBP112Gpra","ALB","plant","Geranium_pratense",NA,NA,"Geraniaceae","Wiesen-Storchschnabel",NA,NA,NA,NA
+"ALBP113Gpus","ALB","plant","Geranium_pusillum",NA,NA,"Geraniaceae","Kleine Storchschnabel",NA,NA,NA,NA
+"ALBP114Gpyr","ALB","plant","Geranium_pyrenaicum",NA,NA,"Geraniaceae","Pyrenäen-Storchschnabel",NA,NA,NA,NA
+"ALBP115Gsyl","ALB","plant","Geranium_sylvaticum",NA,NA,"Geraniaceae","Wald-Storchschnabel",NA,NA,NA,NA
+"ALBP117Ghed","ALB","plant","Glechoma_hederacea",NA,NA,"Lamiaceae","Gundermann","Gundelrebe",NA,NA,NA
+"ALBP118Hnum","ALB","plant","Helianthemum_nummularium",NA,NA,"Cistaceae","Gewöhnliches Sonnenröschen",NA,NA,NA,NA
+"ALBP119Hpub","ALB","plant","Helictotrichon_pubescens","Avenula_pubescens",NA,"Poaceae","Flaum-Hafer",NA,NA,NA,NA
+"ALBP120Hsph","ALB","plant","Heracleum_sphondylium",NA,NA,"Apiaceae","Wiesen-Bärenklau",NA,NA,NA,NA
+"ALBP121Hpil","ALB","plant","Hieracium_pilosella","Pilosella_officirum",NA,"Asteraceae","Kleines Habichtskraut","Mausöhrchen",NA,NA,NA
+"ALBP122Hcom","ALB","plant","Hippocrepis_comosa",NA,NA,"Fabaceae","Hufeisenklee",NA,NA,NA,NA
+"ALBP123Hlan","ALB","plant","Holcus_lanatus",NA,NA,"Poaceae","Wolliges Honiggras",NA,NA,NA,NA
+"ALBP126Hper","ALB","plant","Hypericum_perforatum",NA,NA,"Hypericaceae","Echtes Johanniskraut","Tüpfel-Johanniskraut",NA,NA,NA
+"ALBP127Hrad","ALB","plant","Hypochaeris_radicata","Hypochoeris_radicata",NA,"Asteraceae","Gewöhnliche Ferkelkraut",NA,NA,NA,NA
+"ALBP129Karv","ALB","plant","Knautia_arvensis",NA,NA,"Caprifoliaceae","Acker-Witwenblume","Wiesen-Knautie",NA,NA,NA
+"ALBP130Kpyr","ALB","plant","Koeleria_pyramidata",NA,NA,"Poaceae","Pyramiden-Kammschmiele","Großes Schillergras",NA,NA,NA
+"ALBP132Lalb","ALB","plant","Lamium_album",NA,NA,"Lamiaceae","Weiße Taubnessel",NA,NA,NA,NA
+"ALBP134Lpur","ALB","plant","Lamium_purpureum",NA,NA,"Lamiaceae","Rote Taubnessel",NA,NA,NA,NA
+"ALBP137Lpra","ALB","plant","Lathyrus_pratensis",NA,NA,"Fabaceae","Wiesen-Platterbse",NA,NA,NA,NA
+"ALBP139Laut","ALB","plant","Leontodon_autumnalis","Scorzoneroides_autumnalis",NA,"Asteraceae","Gewöhnlicher Herbst-Löwenzahn",NA,NA,NA,NA
+"ALBP140Lhis","ALB","plant","Leontodon_hispidus",NA,NA,"Asteraceae","Rauher Löwenzahn",NA,NA,NA,NA
+"ALBP141Lvul","ALB","plant","Leucanthemum_vulgare","Chrysanthemum_leucanthemum",NA,"Asteraceae","Wiesen-Margeriten","Wiesen-Wucherblume","Gewöhnliche Wucherblume","Margerite","aggr."
+"ALBP143Lcat","ALB","plant","Linum_catharticum",NA,NA,"Linaceae","Purgier-Lein","Wiesen-Lein",NA,NA,NA
+"ALBP146Lper","ALB","plant","Lolium_perenne",NA,NA,"Poaceae","Ausdauernder Lolch",NA,NA,NA,NA
+"ALBP147Lcor","ALB","plant","Lotus_corniculatus",NA,NA,"Fabaceae","Gewöhnliche Hornklee",NA,NA,NA,NA
+"ALBP148Lcam","ALB","plant","Luzula_campestris",NA,NA,"Juncaceae","Feld-Hainsimse",NA,NA,NA,NA
+"ALBP149Lnum","ALB","plant","Lysimachia_nummularia",NA,NA,"Primulaceae","Pfennigkraut",NA,NA,NA,NA
+"ALBP154Mlup","ALB","plant","Medicago_lupulina",NA,NA,"Fabaceae","Hopfenklee","Schneckenklee",NA,NA,NA
+"ALBP159Mneg","ALB","plant","Muscari_neglectum","Muscari_racemosum",NA,"Asparagaceae","Traubenhyazinthe",NA,NA,NA,"aggr."
+"ALBP160Marv","ALB","plant","Myosotis_arvensis",NA,NA,"Boraginaceae","Acker-Vergissmeinnicht",NA,NA,NA,NA
+"ALBP161Over","ALB","plant","Odontites_vernus","Odontites_ver",NA,"Orobanchaceae","Roter Acker-Zahntrost","Frühlings-Zahntrost",NA,NA,"aggr."
+"ALBP164Ospi","ALB","plant","Ononis_spinosa","Ononis_repens_spinosa_aggr.","Ononis_spinosa_subsp_spinosa","Fabaceae","Dornige Hauhechel",NA,NA,NA,"subsp. spinosa aggr."
+"ALBP165Omil","ALB","plant","Orchis_militaris",NA,NA,"Orchidaceae","Helm-Knabenkraut",NA,NA,NA,NA
+"ALBP166Ovul","ALB","plant","Origanum_vulgare",NA,NA,"Lamiaceae","Gewöhnlicher Dost","Wilder Majoran",NA,NA,NA
+"ALBP171Ppra","ALB","plant","Phleum_pratense",NA,NA,"Poaceae","Wiesen-Lieschgras",NA,NA,NA,"aggr."
+"ALBP173Porb","ALB","plant","Phyteuma_orbiculare",NA,NA,"Campanulaceae","Kugel-Rapunzel","Kugelige Teufelskralle",NA,NA,NA
+"ALBP176Pmaj","ALB","plant","Pimpinella_major",NA,NA,"Apiaceae","Große Bibernelle",NA,NA,NA,NA
+"ALBP177Psax","ALB","plant","Pimpinella_saxifraga",NA,NA,"Apiaceae","Kleine Bibernelle",NA,NA,NA,"aggr."
+"ALBP178Plan","ALB","plant","Plantago_lanceolata",NA,NA,"Plantaginaceae","Spitz-Wegerich",NA,NA,NA,NA
+"ALBP179Pmaj","ALB","plant","Plantago_major",NA,NA,"Plantaginaceae","Großer Wegerich",NA,NA,NA,NA
+"ALBP180Pmed","ALB","plant","Plantago_media",NA,NA,"Plantaginaceae","Mittlere Wegerich",NA,NA,NA,NA
+"ALBP181Pchl","ALB","plant","Platanthera_chlorantha",NA,NA,"Orchidaceae","Berg-Waldhyazinthe","Grünliche Waldhyazinthe",NA,NA,NA
+"ALBP183Ppra","ALB","plant","Poa_pratensis",NA,NA,"Poaceae","Wiesen-Rispengras",NA,NA,NA,"aggr."
+"ALBP185Ptri","ALB","plant","Poa_trivialis",NA,NA,"Poaceae","Gewöhnliches Rispengras",NA,NA,NA,NA
+"ALBP186Pcom","ALB","plant","Polygala_comosa",NA,NA,"Polygalaceae","Schopfige Kreuzblume",NA,NA,NA,"aggr."
+"ALBP190Pere","ALB","plant","Potentilla_erecta",NA,NA,"Rosaceae","Blutwurz",NA,NA,NA,NA
+"ALBP191Phep","ALB","plant","Potentilla_heptaphylla",NA,NA,"Rosaceae","Rötliches Fingerkraut",NA,NA,NA,NA
+"ALBP194Pver","ALB","plant","Potentilla_verna","Potentilla_neumanniana",NA,"Rosaceae","Frühlings-Fingerkraut",NA,NA,NA,"aggr."
+"ALBP195Pver","ALB","plant","Primula_veris",NA,NA,"Primulaceae","Arznei-Schlüsselblume","Echte Schlüsselblume",NA,NA,NA
+"ALBP197Pvul","ALB","plant","Pulsatilla_vulgaris",NA,NA,"Ranunculaceae","Gewöhnliche Kuhschelle","Gewöhnliche Küchenschelle",NA,NA,NA
+"ALBP198Racr","ALB","plant","Ranunculus_acris",NA,NA,"Ranunculaceae","Scharfer Hahnenfuß",NA,NA,NA,NA
+"ALBP199Rbul","ALB","plant","Ranunculus_bulbosus",NA,NA,"Ranunculaceae","Knolliger Hahnenfuß","Knollen Hahnenfuß",NA,NA,NA
+"ALBP200Rfic","ALB","plant","Ranunculus_ficaria","Ficaria_verna",NA,"Ranunculaceae","Scharbockskraut",NA,NA,NA,NA
+"ALBP201Rrep","ALB","plant","Ranunculus_repens",NA,NA,"Ranunculaceae","Kriechende Hahnenfuß",NA,NA,NA,NA
+"ALBP203Rcan","ALB","plant","Rosa_canina",NA,NA,"Rosaceae","Hunds-Rose","Hecken-Rose",NA,NA,"aggr."
+"ALBP206Race","ALB","plant","Rumex_acetosa",NA,NA,"Polygonaceae","Wiesen-Sauerampfer","Großer Sauerampfer",NA,NA,NA
+"ALBP208Rcri","ALB","plant","Rumex_crispus",NA,NA,"Polygonaceae","Krauser Ampfer",NA,NA,NA,NA
+"ALBP209Robt","ALB","plant","Rumex_obtusifolius",NA,NA,"Polygonaceae","Stumpfblättrige Ampfer",NA,NA,NA,NA
+"ALBP210Rthy","ALB","plant","Rumex_thyrsiflorus",NA,NA,"Polygonaceae","Straußblütige Sauerampfer",NA,NA,NA,NA
+"ALBP211Spra","ALB","plant","Salvia_pratensis",NA,NA,"Lamiaceae","Wiesensalbei","Wiesen-Salbei",NA,NA,NA
+"ALBP212Smin","ALB","plant","Sanguisorba_minor",NA,NA,"Rosaceae","Kleiner Wiesenknopf",NA,NA,NA,NA
+"ALBP213Scol","ALB","plant","Scabiosa_columbaria",NA,NA,"Caprifoliaceae","Tauben-Skabiose",NA,NA,NA,NA
+"ALBP218Sjac","ALB","plant","Senecio_jacobaea","Jacobaea_vulgaris",NA,"Asteraceae","Jakobskraut","Jakobs-Greiskraut",NA,NA,NA
+"ALBP220Salb","ALB","plant","Sesleria_albicans","Sesleria_varia","Sesleria_caerulea","Poaceae","Kalk-Blaugras",NA,NA,NA,NA
+"ALBP223Sdio","ALB","plant","Silene_dioica","Melandrium_rubrum",NA,"Caryophyllaceae","Tag-Lichtnelke","Rote Lichtnelke",NA,NA,NA
+"ALBP225Svul","ALB","plant","Silene_vulgaris",NA,NA,"Caryophyllaceae","Aufgeblasenes Leimkraut","Taubenkropf",NA,NA,NA
+"ALBP234Sgra","ALB","plant","Stellaria_graminea",NA,NA,"Caryophyllaceae","Gras-Sternmiere",NA,NA,NA,NA
+"ALBP235Smed","ALB","plant","Stellaria_media",NA,NA,"Caryophyllaceae","Vogelmiere",NA,NA,NA,NA
+"ALBP240Tmon","ALB","plant","Teucrium_montanum",NA,NA,"Lamiaceae","Berg-Gamander",NA,NA,NA,NA
+"ALBP242Tper","ALB","plant","Thlaspi_perfoliatum","Microthlaspi_perfoliatum",NA,"Brassicaceae","Stängelumfassendes Hellerkraut",NA,NA,NA,NA
+"ALBP243Tpul","ALB","plant","Thymus_pulegioides",NA,NA,"Lamiaceae","Feld-Thymian","Arznei-Thymian",NA,NA,NA
+"ALBP244Tpra","ALB","plant","Tragopogon_pratensis",NA,NA,"Asteraceae","Wiesen-Bocksbart",NA,NA,NA,NA
+"ALBP247Tcam","ALB","plant","Trifolium_campestre",NA,NA,"Fabaceae","Feld-Klee",NA,NA,NA,NA
+"ALBP248Tdub","ALB","plant","Trifolium_dubium",NA,NA,"Fabaceae","Faden-Klee","Kleiner Klee",NA,NA,NA
+"ALBP250Tmon","ALB","plant","Trifolium_montanum",NA,NA,"Fabaceae","Berg-Klee",NA,NA,NA,NA
+"ALBP251Tpra","ALB","plant","Trifolium_pratense",NA,NA,"Fabaceae","Rote Wiesenklee","Rotklee","Rot-Klee","Roter Wiesen-Klee",NA
+"ALBP252Trep","ALB","plant","Trifolium_repens",NA,NA,"Fabaceae","Weiß-Klee","Kriechender Klee",NA,NA,NA
+"ALBP255Udio","ALB","plant","Urtica_dioica",NA,NA,"Urticaceae","Große Brennessel",NA,NA,NA,NA
+"ALBP257Varv","ALB","plant","Veronica_arvensis",NA,NA,"Plantaginaceae","Feld-Ehrenpreis",NA,NA,NA,NA
+"ALBP258Vcha","ALB","plant","Veronica_chamaedrys",NA,NA,"Plantaginaceae","Gamander-Ehrenpreis",NA,NA,NA,NA
+"ALBP263Vser","ALB","plant","Veronica_serpyllifolia",NA,NA,"Plantaginaceae","Quendel-Ehrenpreis",NA,NA,NA,NA
+"ALBP264Vteu","ALB","plant","Veronica_teucrium",NA,NA,"Plantaginaceae","Großer Ehrenpreis",NA,NA,NA,NA
+"ALBP267Vsat","ALB","plant","Vicia_sativa","Vicia_angustifolia",NA,"Faboideae","Futter-Wicke","Saat-Wicke","Schmalblättrige Wicke",NA,"aggr."
+"ALBP268Vsep","ALB","plant","Vicia_sepium",NA,NA,"Faboideae","Zaun-Wicke",NA,NA,NA,NA
+"ALBL003Ahyp","ALB","lepidoptera","Aphantopus_hyperantus",NA,NA,"Nymphalidae","Schornsteinfeger",NA,NA,NA,NA
+"ALBL004Acra","ALB","lepidoptera","Aporia_crataegi",NA,NA,"Pieridae","Baum-Weißling",NA,NA,NA,NA
+"ALBL005Alev","ALB","lepidoptera","Araschnia_levana",NA,NA,"Nymphalidae","Landkärtchen",NA,NA,NA,NA
+"ALBL006Aadi","ALB","lepidoptera","Argynnis_adippe","Fabriciana_adippe",NA,"Nymphalidae","Feuriger Perlmutterfalter",NA,NA,NA,NA
+"ALBL009Bino","ALB","lepidoptera","Brenthis_ino",NA,NA,"Nymphalidae","Mädesüß-Perlmutterfalter",NA,NA,NA,NA
+"ALBL010Crub","ALB","lepidoptera","Callophrys_rubi",NA,NA,"Lycaenidae","Grüner Zipfelfalter",NA,NA,NA,NA
+"ALBL011Cpal","ALB","lepidoptera","Carterocephalus_palaemon",NA,NA,"Hesperiidae","Gelbwürfeliger Dickkopffalter",NA,NA,NA,NA
+"ALBL012Carg","ALB","lepidoptera","Celastrina_argiolus",NA,NA,"Lycaenidae","Faulbaum-Bläuling",NA,NA,NA,NA
+"ALBL013Carc","ALB","lepidoptera","Coenonympha_arcania",NA,NA,"Nymphalidae","Weißbindiges Wiesenvögelchen",NA,NA,NA,NA
+"ALBL014Cgly","ALB","lepidoptera","Coenonympha_glycerion",NA,NA,"Nymphalidae","Rotbraunes Wiesenvögelchen",NA,NA,NA,NA
+"ALBL015Cpam","ALB","lepidoptera","Coenonympha_pamphilus",NA,NA,"Nymphalidae","Kleines Wiesenvögelchen",NA,NA,NA,NA
+"ALBL016Calf","ALB","lepidoptera","Colias_alfacariensis","Colias_australis",NA,"Pieridae","Hufeisenklee-Gelbling",NA,NA,NA,NA
+"ALBL017Ccro","ALB","lepidoptera","Colias_crocea","Colias_croceus",NA,"Pieridae","Wander-Gelbling",NA,NA,NA,NA
+"ALBL018Chya","ALB","lepidoptera","Colias_hyale",NA,NA,"Pieridae","Weißklee-Gelbling",NA,NA,NA,NA
+"ALBL019Cmin","ALB","lepidoptera","Cupido_minimus",NA,NA,"Lycaenidae","Zwerg-Bläuling",NA,NA,NA,NA
+"ALBL020Eaet","ALB","lepidoptera","Erebia_aethiops",NA,NA,"Nymphalidae","Graubindiger Mohrenfalter",NA,NA,NA,NA
+"ALBL021Emed","ALB","lepidoptera","Erebia_medusa",NA,NA,"Nymphalidae","Rundaugen-Mohrenfalter",NA,NA,NA,NA
+"ALBL022Etag","ALB","lepidoptera","Erynnis_tages",NA,NA,"Hesperiidae","Kronwicken-Dickkopffalter",NA,NA,NA,NA
+"ALBL023Grha","ALB","lepidoptera","Gonepteryx_rhamni",NA,NA,"Pieridae","Zitronenfalter",NA,NA,NA,NA
+"ALBL024Hcom","ALB","lepidoptera","Hesperia_comma",NA,NA,"Hesperiidae","Komma-Dickkopffalter",NA,NA,NA,NA
+"ALBL0025Iio","ALB","lepidoptera","Inachis_io","Aglais_io",NA,"Nymphalidae","Tagpfauenauge",NA,NA,NA,NA
+"ALBL027Lsin","ALB","lepidoptera","Leptidea_sinapis_complex",NA,NA,"Pieridae",NA,NA,NA,NA,"complex: this species complex includes L. sipis; L. reali und L. juvernica."
+"ALBL028Lhip","ALB","lepidoptera","Lycaena_hippothoe",NA,NA,"Lycaenidae","Lilagold-Feuerfalter",NA,NA,NA,NA
+"ALBL029Lphl","ALB","lepidoptera","Lycaena_phlaeas",NA,NA,"Lycaenidae","Kleiner Feuerfalter",NA,NA,NA,NA
+"ALBL030Ltit","ALB","lepidoptera","Lycaena_tityrus",NA,NA,"Lycaenidae","Brauner Feuerfalter",NA,NA,NA,NA
+"ALBL031Mari","ALB","lepidoptera","Maculinea_arion","Phengaris_arion",NA,"Lycaenidae","Schwarzfleckiger Ameisen-Bläuling",NA,NA,NA,NA
+"ALBL032Mjur","ALB","lepidoptera","Maniola_jurtina",NA,NA,"Nymphalidae","Großes Ochsenauge",NA,NA,NA,NA
+"ALBL033Mgal","ALB","lepidoptera","Melanargia_galathea",NA,NA,"Nymphalidae","Schachbrett",NA,NA,NA,NA
+"ALBL034Math","ALB","lepidoptera","Melitaea_athalia","Mellicta_athalia",NA,"Nymphalidae","Wachtelweizen-Scheckenfalter",NA,NA,NA,NA
+"ALBL035Maur","ALB","lepidoptera","Melitaea_aurelia","Mellicta_aurelia",NA,"Nymphalidae","Ehrenpreis-Scheckenfalter",NA,NA,NA,NA
+"ALBL036Mbri","ALB","lepidoptera","Melitaea_britomartis","Mellicta_britomartis",NA,"Nymphalidae","Östlicher Scheckenfalter",NA,NA,NA,NA
+"ALBL037Nurt","ALB","lepidoptera","Nymphalis_urticae","Aglais_urticae",NA,"Nymphalidae","Kleiner Fuchs",NA,NA,NA,NA
+"ALBL038Osyl","ALB","lepidoptera","Ochlodes_sylvanus","Ochlodes_venatus",NA,"Hesperiidae","Rostfarbiger Dickkopffalter",NA,NA,NA,NA
+"ALBL039Pmac","ALB","lepidoptera","Papilio_machaon",NA,NA,"Papilionidae","Schwalbenschwanz",NA,NA,NA,NA
+"ALBL040Pbra","ALB","lepidoptera","Pieris_brassicae",NA,NA,"Pieridae","Großer Kohl-Weißling",NA,NA,NA,NA
+"ALBL041Pnap","ALB","lepidoptera","Pieris_napi",NA,NA,"Pieridae","Grünader-Weißling",NA,NA,NA,NA
+"ALBL042Prap","ALB","lepidoptera","Pieris_rapae",NA,NA,"Pieridae","Kleiner Kohl-Weißling",NA,NA,NA,NA
+"ALBL043Parg","ALB","lepidoptera","Plebeius_argus","Plebejus_argus",NA,"Lycaenidae","Argus-Bläuling",NA,NA,NA,NA
+"ALBL044Page","ALB","lepidoptera","Polyommatus_agestis","Aricia_agestis",NA,"Lycaenidae","Kleiner Sonnenröschen-Bläuling",NA,NA,NA,NA
+"ALBL046Pcor","ALB","lepidoptera","Polyommatus_coridon","Lysandra_coridon","Lycae_coridon","Lycaenidae","Silbergrüner Bläuling",NA,NA,NA,NA
+"ALBL047Peum","ALB","lepidoptera","Polyommatus_eumedon","Eumedonia_eumedon","Aricia_eumedon","Lycaenidae","Storchschnabel-Bläuling",NA,NA,NA,NA
+"ALBL048Pica","ALB","lepidoptera","Polyommatus_icarus",NA,NA,"Lycaenidae","Hauhechel-Bläuling",NA,NA,NA,NA
+"ALBL049Psem","ALB","lepidoptera","Polyommatus_semiargus","Cyaniris_semiargus",NA,"Lycaenidae","Rotklee-Bläuling",NA,NA,NA,NA
+"ALBL050Pthe","ALB","lepidoptera","Polyommatus_thersites","Plebicula_thersites",NA,"Lycaenidae","Esparsetten-Bläuling",NA,NA,NA,NA
+"ALBL052Palv","ALB","lepidoptera","Pyrgus_alveus_complex",NA,NA,"Hesperiidae",NA,NA,NA,NA,"complex: this species complex includes P. alveus; P. trebevicensis; P. accreta"
+"ALBL053Pmal","ALB","lepidoptera","Pyrgus_malvae",NA,NA,"Hesperiidae","Kleiner Würfel-Dickkopffalter",NA,NA,NA,NA
+"ALBL054Sser","ALB","lepidoptera","Spialia_sertorius",NA,NA,"Hesperiidae","Roter Würfel-Dickkopffalter",NA,NA,NA,NA
+"ALBL055Tact","ALB","lepidoptera","Thymelicus_acteon",NA,NA,"Hesperiidae","Mattscheckiger Braun-Dickkopffalter",NA,NA,NA,NA
+"ALBL056Tlin","ALB","lepidoptera","Thymelicus_lineola","Thymelicus_lineolus",NA,"Hesperiidae","Schwarzkolbiger Braun-Dickkopffalter",NA,NA,NA,NA
+"ALBL057Tsyl","ALB","lepidoptera","Thymelicus_sylvestris",NA,NA,"Hesperiidae","Braunkolbiger Braun-Dickkopffalter",NA,NA,NA,NA
+"ALBL058Vcar","ALB","lepidoptera","Vanessa_cardui","Cynthia_cardui",NA,"Nymphalidae","Distelfalter",NA,NA,NA,NA
+"SCHP001Amil","SCH","plant","Achillea_millefolium",NA,NA,"Asteraceae","Wiesen-Schafgarbe","Gewöhnliche Schafgarbe",NA,NA,"aggr."
+"SCHP011Asyl","SCH","plant","Anthriscus_sylvestris",NA,NA,"Apiaceae","Wiesen-Kerbel",NA,NA,NA,NA
+"SCHP022Bper","SCH","plant","Bellis_perennis",NA,NA,"Asteraceae","Gänseblümchen",NA,NA,NA,NA
+"SCHP031Cbur","SCH","plant","Capsella_bursa_pastoris","Capsella_bursa-pastoris",NA,"Brassicaceae","Hirtentäschel",NA,NA,NA,NA
+"SCHP033Cpra","SCH","plant","Cardamine_pratensis",NA,NA,"Brassicaceae","Wiesen-Schaumkraut",NA,NA,NA,NA
+"SCHP034Care","SCH","plant","Cardaminopsis_arenosa","Arabidopsis_arenosa",NA,"Brassicaceae","Sand-Schaumkresse",NA,NA,NA,NA
+"SCHP038Carv","SCH","plant","Cerastium_arvense",NA,NA,"Caryophyllaceae","Acker-Hornkraut",NA,NA,NA,NA
+"SCHP039Chol","SCH","plant","Cerastium_holosteoides","Cerastium_fontanum",NA,"Caryophyllaceae","Gewöhnliches Hornkraut",NA,NA,NA,NA
+"SCHP040Cint","SCH","plant","Cichorium_intybus",NA,NA,"Asteraceae","Gewöhnliche Wegwarte",NA,NA,NA,NA
+"SCHP041Carv","SCH","plant","Cirsium_arvense",NA,NA,"Asteraceae","Acker-Kratzdistel",NA,NA,NA,NA
+"SCHP042Cole","SCH","plant","Cirsium_oleraceum",NA,NA,"Asteraceae","Kohl-Kratzdistel","Kohldistel",NA,NA,NA
+"SCHP045Carv","SCH","plant","Convolvulus_arvensis",NA,NA,"Convolvulaceae","Acker-Winde",NA,NA,NA,NA
+"SCHP050Dglo","SCH","plant","Dactylis_glomerata",NA,NA,"Poaceae","Wiesen-Knäuelgras",NA,NA,NA,NA
+"SCHP055Epar","SCH","plant","Epilobium_parviflorum",NA,NA,"Onagraceae","Bach-Weidenröschen","Kleinblütiges Weidenröschen",NA,NA,NA
+"SCHP058Ecic","SCH","plant","Erodium_cicutarium",NA,NA,"Geraniaceae","Gewöhnliche Reiherschnabel","Gemeiner Reiherschnabel",NA,NA,NA
+"SCHP067Gmol","SCH","plant","Galium_mollugo",NA,NA,"Rubiaceae","Wiesen-Labkraut",NA,NA,NA,"aggr."
+"SCHP069Gmol","SCH","plant","Geranium_molle",NA,NA,"Geraniaceae","Weicher Storchschnabel",NA,NA,NA,NA
+"SCHP070Gpus","SCH","plant","Geranium_pusillum",NA,NA,"Geraniaceae","Kleine Storchschnabel",NA,NA,NA,NA
+"SCHP071Ghed","SCH","plant","Glechoma_hederacea",NA,NA,"Lamiaceae","Gundermann","Gundelrebe",NA,NA,NA
+"SCHP072Hsph","SCH","plant","Heracleum_sphondylium",NA,NA,"Apiaceae","Wiesen-Bärenklau",NA,NA,NA,NA
+"SCHP073Hpil","SCH","plant","Hieracium_pilosella","Pilosella_officirum",NA,"Asteraceae","Kleines Habichtskraut","Mausöhrchen",NA,NA,NA
+"SCHP075Hrad","SCH","plant","Hypochaeris_radicata","Hypochoeris_radicata",NA,"Asteraceae","Gewöhnliche Ferkelkraut",NA,NA,NA,NA
+"SCHP082Laut","SCH","plant","Leontodon_autumnalis","Scorzoneroides_autumnalis",NA,"Asteraceae","Gewöhnlicher Herbst-Löwenzahn",NA,NA,NA,NA
+"SCHP090Mlup","SCH","plant","Medicago_lupulina",NA,NA,"Fabaceae","Hopfenklee","Schneckenklee",NA,NA,NA
+"SCHP091Msat","SCH","plant","Medicago_sativa","Medicago_×_varia",NA,"Fabaceae","Saat-Luzerne",NA,NA,NA,"aggr."
+"SCHP098Pamp","SCH","plant","Persicaria_amphibia","Polygonum_amphibium",NA,"Polygonaceae","Wasser-Knöterich",NA,NA,NA,NA
+"SCHP101Paru","SCH","plant","Phalaris_arundinacea",NA,NA,"Poaceae","Rohr-Glanzgras",NA,NA,NA,NA
+"SCHP105Plan","SCH","plant","Plantago_lanceolata",NA,NA,"Plantaginaceae","Spitz-Wegerich",NA,NA,NA,NA
+"SCHP106Ppra","SCH","plant","Poa_pratensis",NA,NA,"Poaceae","Wiesen-Rispengras",NA,NA,NA,"aggr."
+"SCHP109Pans","SCH","plant","Potentilla_anserina",NA,NA,"Rosaceae","Gänse-Fingerkraut",NA,NA,NA,NA
+"SCHP110Parg","SCH","plant","Potentilla_argentea",NA,NA,"Rosaceae","Silber-Fingerkraut",NA,NA,NA,NA
+"SCHP112Prep","SCH","plant","Potentilla_reptans",NA,NA,"Rosaceae","Kriechende Fingerkraut",NA,NA,NA,NA
+"SCHP117Racr","SCH","plant","Ranunculus_acris",NA,NA,"Ranunculaceae","Scharfer Hahnenfuß",NA,NA,NA,NA
+"SCHP119Rbul","SCH","plant","Ranunculus_bulbosus",NA,NA,"Ranunculaceae","Knolliger Hahnenfuß","Knollen Hahnenfuß",NA,NA,NA
+"SCHP120Rrep","SCH","plant","Ranunculus_repens",NA,NA,"Ranunculaceae","Kriechende Hahnenfuß",NA,NA,NA,NA
+"SCHP124Race","SCH","plant","Rumex_acetosa",NA,NA,"Polygonaceae","Wiesen-Sauerampfer","Großer Sauerampfer",NA,NA,NA
+"SCHP125Race","SCH","plant","Rumex_acetosella",NA,NA,"Polygonaceae","Kleine Sauerampfer",NA,NA,NA,NA
+"SCHP126Rcri","SCH","plant","Rumex_crispus",NA,NA,"Polygonaceae","Krauser Ampfer",NA,NA,NA,NA
+"SCHP127Robt","SCH","plant","Rumex_obtusifolius",NA,NA,"Polygonaceae","Stumpfblättrige Ampfer",NA,NA,NA,NA
+"SCHP128Rthy","SCH","plant","Rumex_thyrsiflorus",NA,NA,"Polygonaceae","Straußblütige Sauerampfer",NA,NA,NA,NA
+"SCHP142Sgra","SCH","plant","Stellaria_graminea",NA,NA,"Caryophyllaceae","Gras-Sternmiere",NA,NA,NA,NA
+"SCHP143Soff","SCH","plant","Symphytum_officinale",NA,NA,"Boraginaceae","Arznei-Beinwell","Gewöhnlicher Beinwell",NA,NA,NA
+"SCHP150Tcam","SCH","plant","Trifolium_campestre",NA,NA,"Fabaceae","Feld-Klee",NA,NA,NA,NA
+"SCHP151Tdub","SCH","plant","Trifolium_dubium",NA,NA,"Fabaceae","Faden-Klee","Kleiner Klee",NA,NA,NA
+"SCHP154Tpra","SCH","plant","Trifolium_pratense",NA,NA,"Fabaceae","Rote Wiesenklee","Rotklee","Rot-Klee","Roter Wiesen-Klee",NA
+"SCHP155Trep","SCH","plant","Trifolium_repens",NA,NA,"Fabaceae","Weiß-Klee","Kriechender Klee",NA,NA,NA
+"SCHP158Udio","SCH","plant","Urtica_dioica",NA,NA,"Urticaceae","Große Brennessel",NA,NA,NA,NA
+"SCHP160Vcha","SCH","plant","Veronica_chamaedrys",NA,NA,"Plantaginaceae","Gamander-Ehrenpreis",NA,NA,NA,NA
+"SCHP164Vcra","SCH","plant","Vicia_cracca",NA,NA,"Faboideae","Vogel-Wicke",NA,NA,NA,"aggr."
+"SCHP165Vhir","SCH","plant","Vicia_hirsuta",NA,NA,"Faboideae","Rauhaarige Wicke","Behaarte Wicke",NA,NA,NA
+"SCHP166Vsat","SCH","plant","Vicia_sativa","Vicia_angustifolia",NA,"Faboideae","Futter-Wicke","Saat-Wicke","Schmalblättrige Wicke",NA,"aggr."
+"SCHL001Acar","SCH","lepidoptera","Anthocharis_cardamines",NA,NA,"Pieridae","Aurorafalter",NA,NA,NA,NA
+"SCHL002Ahyp","SCH","lepidoptera","Aphantopus_hyperantus",NA,NA,"Nymphalidae","Schornsteinfeger",NA,NA,NA,NA
+"SCHL004Alev","SCH","lepidoptera","Araschnia_levana",NA,NA,"Nymphalidae","Landkärtchen",NA,NA,NA,NA
+"SCHL007Apap","SCH","lepidoptera","Argynnis_paphia",NA,NA,"Nymphalidae","Kaisermantel",NA,NA,NA,NA
+"SCHL013Cgly","SCH","lepidoptera","Coenonympha_glycerion",NA,NA,"Nymphalidae","Rotbraunes Wiesenvögelchen",NA,NA,NA,NA
+"SCHL014Cpam","SCH","lepidoptera","Coenonympha_pamphilus",NA,NA,"Nymphalidae","Kleines Wiesenvögelchen",NA,NA,NA,NA
+"SCHL016Chya","SCH","lepidoptera","Colias_hyale",NA,NA,"Pieridae","Weißklee-Gelbling",NA,NA,NA,NA
+"SCHL019Grha","SCH","lepidoptera","Gonepteryx_rhamni",NA,NA,"Pieridae","Zitronenfalter",NA,NA,NA,NA
+"SCHL0021Iio","SCH","lepidoptera","Inachis_io","Aglais_io",NA,"Nymphalidae","Tagpfauenauge",NA,NA,NA,NA
+"SCHL022Ilat","SCH","lepidoptera","Issoria_lathonia",NA,NA,"Nymphalidae","Kleiner Perlmutterfalter",NA,NA,NA,NA
+"SCHL025Lphl","SCH","lepidoptera","Lycaena_phlaeas",NA,NA,"Lycaenidae","Kleiner Feuerfalter",NA,NA,NA,NA
+"SCHL028Mjur","SCH","lepidoptera","Maniola_jurtina",NA,NA,"Nymphalidae","Großes Ochsenauge",NA,NA,NA,NA
+"SCHL029Mgal","SCH","lepidoptera","Melanargia_galathea",NA,NA,"Nymphalidae","Schachbrett",NA,NA,NA,NA
+"SCHL034Pmac","SCH","lepidoptera","Papilio_machaon",NA,NA,"Papilionidae","Schwalbenschwanz",NA,NA,NA,NA
+"SCHL035Pbra","SCH","lepidoptera","Pieris_brassicae",NA,NA,"Pieridae","Großer Kohl-Weißling",NA,NA,NA,NA
+"SCHL036Pnap","SCH","lepidoptera","Pieris_napi",NA,NA,"Pieridae","Grünader-Weißling",NA,NA,NA,NA
+"SCHL037Prap","SCH","lepidoptera","Pieris_rapae",NA,NA,"Pieridae","Kleiner Kohl-Weißling",NA,NA,NA,NA
+"SCHL041Pica","SCH","lepidoptera","Polyommatus_icarus",NA,NA,"Lycaenidae","Hauhechel-Bläuling",NA,NA,NA,NA
+"SCHL043Pedu","SCH","lepidoptera","Pontia_edusa",NA,NA,"Pieridae","Östlicher Resedaweißling","Resedafalter",NA,NA,NA
+"SCHL047Tlin","SCH","lepidoptera","Thymelicus_lineola","Thymelicus_lineolus",NA,"Hesperiidae","Schwarzkolbiger Braun-Dickkopffalter",NA,NA,NA,NA
+"SCHL048Tsyl","SCH","lepidoptera","Thymelicus_sylvestris",NA,NA,"Hesperiidae","Braunkolbiger Braun-Dickkopffalter",NA,NA,NA,NA

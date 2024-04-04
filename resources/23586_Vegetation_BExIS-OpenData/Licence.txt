@@ -1,0 +1,28 @@
+DATA AGREEMENT
+
+General information
+
+The Biodiversity Exploratories (BE) are a research project funded by Deutsche Forschungsgemenischaft (DFG Priority Program 1374). It serves as a research platform for all biodiversity and ecosystem research groups of Germany.
+This data agreement refers to all datasets collected or produced by all researchers participating in the DFG Priority Program 1374.
+These data sets are managed within the BExIS platform. In this agreement, we refer to the scientists that originally collected or produced the data as data suppliers.
+The principle investigator of the project in which this took place plus optionally further people (e.g., the data suppliers or a subset thereof, as listed in BExIS) are referred to as data owners.
+
+
+License
+
+This dataset is made publicly available under the  Creative Commons Attribution Non Commercial License (CC-BY-NC). Information about this license is available on http://creativecommons.org/licenses/by-nc/4.0/. Commercial use of data is not allowed, unless written consent of the BE has been obtained.
+
+
+Co-authorship and acknowledgement of original data suppliers
+
+In all cases of data usage, data has to be cited appropriately. A sample citation which can be adapted to fit different citation styles is included in the metadata. If data are derived from original data, e.g., by calculation of averages or indices, the data rights of the original data are maintained and all regulations of this data agreement apply correspondingly also to derived data.
+
+Co-authorship of the data owner and/or data supplier is appropriate and has to be offered, if the dataset contributes significantly to the main message of a scientific paper (compare, e.g., Recommendation 12 in “Safeguarding Good Scientific Practice” by the DFG).  
+The contributions of the BE founders and administrative staff should be acknowledged as follows:
+“This work is based on data obtained within the DFG Priority Program 1374 ‘Infrastructure-Biodiversity-Exploratories’. We thank the staff of the three exploratories,  the BE office  and the BExIS team for their work in maintaining the plot and project infrastructure, and Markus Fischer, the late Elisabeth Kalko, Eduard Linsenmair, Dominik Hessenmöller, Jens Nieschulze, Daniel Prati, Ingo Schöning, François Buscot, Ernst-Detlef Schulze and Wolfgang W. Weisser for their role in setting up the Biodiversity Exploratories project.”
+
+
+Limitation of liability
+
+Every effort has been made by the data management team of the BE to ensure the quality of the data. However, data management team/ BE / data supplier can neither be held liable for any error or omission in the datasets nor for any direct, indirect or consequential damages arising from the use thereof.
+Users are requested to report any errors or deficiencies directly to the data management team of BE.

@@ -1,0 +1,354 @@
+{
+  "Id": 200,
+  "Title": "10160 data structure",
+  "Description": "Data structure for structured data",
+  "inUse": true,
+  "Structured": true,
+  "Variables": [
+    {
+      "Id": 3569,
+      "Label": "EP_ID",
+      "Description": "",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 3570,
+      "Label": "Plot_ID",
+      "Description": "",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 3571,
+      "Label": "Date",
+      "Description": "sampling date",
+      "isOptional": true,
+      "unit": {
+        "Id": 45,
+        "Name": "date ISO y-m-d",
+        "Description": "date following the ISO norm",
+        "Dimension": {
+          "Name": "date time",
+          "Description": "format for date and time representation; SI unit: YYYY-MM-DD hh:mm:ss; BEXIS units: mm:ss, hh:mm:ss,  hh:mm, yyyy, yyyy-MM-dd, yyyy-MM-ddThh:mm:ss",
+          "Specification": "dimensionless"
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 10,
+        "Name": "date-iso",
+        "Description": "",
+        "SystemType": "DateTime"
+      }
+    },
+    {
+      "Id": 3572,
+      "Label": "Begin",
+      "Description": "begin of sampling per transect intercept",
+      "isOptional": true,
+      "unit": {
+        "Id": 41,
+        "Name": "Time-hh:mm",
+        "Description": "time given in hour, minute",
+        "Dimension": {
+          "Name": "date time",
+          "Description": "format for date and time representation; SI unit: YYYY-MM-DD hh:mm:ss; BEXIS units: mm:ss, hh:mm:ss,  hh:mm, yyyy, yyyy-MM-dd, yyyy-MM-ddThh:mm:ss",
+          "Specification": "dimensionless"
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 19,
+        "Name": "time-hh:mm",
+        "Description": "",
+        "SystemType": "DateTime"
+      }
+    },
+    {
+      "Id": 3573,
+      "Label": "End",
+      "Description": "end of sampling per transect intercept",
+      "isOptional": true,
+      "unit": {
+        "Id": 41,
+        "Name": "Time-hh:mm",
+        "Description": "time given in hour, minute",
+        "Dimension": {
+          "Name": "date time",
+          "Description": "format for date and time representation; SI unit: YYYY-MM-DD hh:mm:ss; BEXIS units: mm:ss, hh:mm:ss,  hh:mm, yyyy, yyyy-MM-dd, yyyy-MM-ddThh:mm:ss",
+          "Specification": "dimensionless"
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 19,
+        "Name": "time-hh:mm",
+        "Description": "",
+        "SystemType": "DateTime"
+      }
+    },
+    {
+      "Id": 3574,
+      "Label": "Intercept",
+      "Description": "intercept number, we had 8 intercepts of 25m length per 200m",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 3575,
+      "Label": "Plant",
+      "Description": "follows Heupler&Muer",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 3576,
+      "Label": "No",
+      "Description": "insect sample number",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 3577,
+      "Label": "Order",
+      "Description": "insect order",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 3578,
+      "Label": "Family",
+      "Description": "Insect family",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 3579,
+      "Label": "Species",
+      "Description": "Insect species name",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 3580,
+      "Label": "F",
+      "Description": "if 1=female",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 3581,
+      "Label": "M",
+      "Description": "if 1=male",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 3582,
+      "Label": "Unsexed",
+      "Description": "if 1=unsexed insect individuals",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 3583,
+      "Label": "Total",
+      "Description": "total number of insect individuals per species on a given flower individual",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1228 @@
+{
+  "Id": 62,
+  "Title": "4302 data structure",
+  "Description": "Data structure for structured data",
+  "inUse": true,
+  "Structured": true,
+  "Variables": [
+    {
+      "Id": 765,
+      "Label": "Nutzung",
+      "Description": "tells the landuse type, the mowing frequency and if the plot is fertilised or not",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 766,
+      "Label": "Nutzung_vereinfacht",
+      "Description": "simplified landuse type only  distinguishing between meadows, monw pastures and pastures",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 767,
+      "Label": "Duengung",
+      "Description": "plot is fertilized yes or no",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 768,
+      "Label": "Plot",
+      "Description": "plot identity",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 1,
+        "Name": "string",
+        "Description": "String",
+        "SystemType": "String"
+      }
+    },
+    {
+      "Id": 769,
+      "Label": "Adela_sp",
+      "Description": "number of butterflies from this genus on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 770,
+      "Label": "Aphantopus_hyperantus",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 771,
+      "Label": "Argynnis_adippe",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 772,
+      "Label": "Autographa_gamma",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 773,
+      "Label": "Callophrys_rubi",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 774,
+      "Label": "Chiasmia_clathrata",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 775,
+      "Label": "Coenonympha_glycerion",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 776,
+      "Label": "Coenonympha_pamphilus",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 777,
+      "Label": "Colias_hyale",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 778,
+      "Label": "Cupido_minimus",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 779,
+      "Label": "Erebia_medusa",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 780,
+      "Label": "Gonepterix_rhamni",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 781,
+      "Label": "Hemaris_tityus",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 782,
+      "Label": "Hesperia_comma",
+      "Description": "number of butterflies from this genus on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 783,
+      "Label": "Inachis_io",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 784,
+      "Label": "Lepidoptera_undet",
+      "Description": "number of undetermined butterflies on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 785,
+      "Label": "Lycaena_hippothoe",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 786,
+      "Label": "Maculinea_arion",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 787,
+      "Label": "Maniola_jurtina",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 788,
+      "Label": "Melanargia_galathea",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 789,
+      "Label": "Melitaea_aurelia",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 790,
+      "Label": "Melitaea_britomartis",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 791,
+      "Label": "Micro_undet",
+      "Description": "number of undetermined micro lepidoptera on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 792,
+      "Label": "Ochlodes_sylvanus",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 793,
+      "Label": "Odezia_atrata",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 794,
+      "Label": "Panemeria_tenebrata",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 795,
+      "Label": "Papilio_machaon",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 796,
+      "Label": "Pieris_brassicae",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 797,
+      "Label": "Pieris_napi",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 798,
+      "Label": "Pieris_rapae",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 799,
+      "Label": "Plebeius_argus_argyrognomon_ideas_agg",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 800,
+      "Label": "Polyommatus_belargus",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 801,
+      "Label": "Polyommatus_coridon",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 802,
+      "Label": "Polyommatus_icarus",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 803,
+      "Label": "Polyommatus_semiargus",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 804,
+      "Label": "Procridinae",
+      "Description": "number of butterflies from thiis family on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 805,
+      "Label": "Pyrausta_purpuralis",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 806,
+      "Label": "Pyrgus_malvae",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 807,
+      "Label": "Scolitantides_baton",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 808,
+      "Label": "Sesia_sp",
+      "Description": "number of butterflies from this genus on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 809,
+      "Label": "Thymelicus_lineola",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 810,
+      "Label": "Thymelicus_sylvestris",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 811,
+      "Label": "Zygaena_filipendulae",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 812,
+      "Label": "Zygaena_loti",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 813,
+      "Label": "Zygaena_purpuralis_minos_agg",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 814,
+      "Label": "Zygaena_viciae",
+      "Description": "number of butterflies from this species on different plots",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 815,
+      "Label": "Interaktionszahl",
+      "Description": "number of interactions between plants and butterflies per plot",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 816,
+      "Label": "Anzahl_Artengruppen",
+      "Description": "number of species or species groups",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 7,
+        "Name": "integer",
+        "Description": "An integer number",
+        "SystemType": "Int64"
+      }
+    },
+    {
+      "Id": 817,
+      "Label": "Simpson_diversity",
+      "Description": "simpson reciprocal index",
+      "isOptional": true,
+      "unit": {
+        "Id": 1,
+        "Name": "none",
+        "Description": "If no unit is used.",
+        "Dimension": {
+          "Name": "none",
+          "Description": "none",
+          "Specification": "If no unit is used."
+        },
+        "MeasurementSystem": "Unknown"
+      },
+      "dataType": {
+        "Id": 6,
+        "Name": "double",
+        "Description": "A real number",
+        "SystemType": "Double"
+      }
+    }
+  ]
+}
