@@ -23,7 +23,7 @@ To run all analyses from scratch including data wrangling and prepararion steps,
 If you prefer to run only the accuracy and data validation analyses use this dataset from BExIS: 31738 (3) #TODO add DOI once available
 
 # Steps: 
-1. run the [data_tidy script](scripts/data_tidy.R) to clean and tidy the datasets
+1. run the [data_tidy script](scripts/wrangling/data_tidy.R) to clean and tidy the datasets
 2. continue with the pairs files in order (pairs_1.., 2, 3, and 4)
 3. run the files in the [scripts/analysis folder](scripts/analysis) in this order:
    - accuracy_co-occurrence
