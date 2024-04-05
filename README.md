@@ -1,6 +1,8 @@
-# Supplementary code for analyses of Menares et al. 2024, "Co-occurrence patterns do not predict mutualistic interactions between plant and butterfly species".
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10931679.svg)](https://doi.org/10.5281/zenodo.10931679)
 
-This repository contains the analysis done for Menares et al. (2024), which compares the accuracy of existing co-occurrence methods for estimating pairwise species interactions between plants and butterfly species from observational occurrence (P/A and abundance) data against species interactions estimated experimentally from long-term flower visitation data. 
+# Supplementary code for analyses of Menares et al. (in review), "Co-occurrence patterns do not predict mutualistic interactions between plant and butterfly species".
+
+This repository contains the analysis done for Menares et al. (in review), which compares the accuracy of existing co-occurrence methods for estimating pairwise species interactions between plants and butterfly species from observational occurrence (P/A and abundance) data against species interactions estimated experimentally from long-term flower visitation data. 
 
 # Requirements: 
 
@@ -23,7 +25,7 @@ To run all analyses from scratch including data wrangling and prepararion steps,
 If you prefer to run only the accuracy and data validation analyses use this dataset from BExIS: 31738 (3) #TODO add DOI once available
 
 # Steps: 
-1. run the [data_tidy script](scripts/data_tidy.R) to clean and tidy the datasets
+1. run the [data_tidy script](scripts/wrangling/data_tidying.R) to clean and tidy the datasets
 2. continue with the pairs files in order (pairs_1.., 2, 3, and 4)
 3. run the files in the [scripts/analysis folder](scripts/analysis) in this order:
    - accuracy_co-occurrence
