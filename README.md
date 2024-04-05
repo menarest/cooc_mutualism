@@ -1,6 +1,6 @@
 # Supplementary code for analyses of Menares et al. 2024, "Co-occurrence patterns do not predict mutualistic interactions between plant and butterfly species".
 
-This repository contains the analysis done for Menares et al. (2024), which compares the accuracy of existing co-occurrence methods for estimating pairwise species interactions between plants and butterfly species from observational occurrence (P/A and abundance) data against species interactions estimated experimentally from long-term flower visitation data. 
+This repository contains the analysis done for Menares et al. (in review), which compares the accuracy of existing co-occurrence methods for estimating pairwise species interactions between plants and butterfly species from observational occurrence (P/A and abundance) data against species interactions estimated experimentally from long-term flower visitation data. 
 
 # Requirements: 
 
