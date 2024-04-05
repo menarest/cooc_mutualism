@@ -10,7 +10,7 @@ To run all analyses from scratch including data wrangling and prepararion steps,
 
 - plants: 23586 (1.3.1)
 - butterflies: 12526 (1.8.19)
-- species taxonomy table: 31733 (6)
+- species taxonomy table: 31733 (7)
 - species interactions:
   - Imago ALB: 31734 (7)
   - Larva ALB: 31735 (3)
