@@ -8,16 +8,16 @@ This repository contains the analysis done for Menares et al. (in review), which
 
 To run all analyses from scratch including data wrangling and prepararion steps, you will need to download the data from BExIS using the IDs: 
 
-- plants: 23586 (2)
-- butterflies: 12526 (2)
-- species taxonomy table: 31733 (8)
+- plants: 23586 (v.2)
+- butterflies: 12526 (v.2)
+- species taxonomy table: 31733 (v.8)
 - species interactions:
-  - Imago ALB: 31734 (8)
-  - Larva ALB: 31735 (4)
-  - Imago SCH: 31736 (3)
-  - Larva SCH: 31737 (3)
-- flower availability: 4302 (2) and 4964 (2)
-- flower visitation: 10160 (3)
+  - Imago ALB: 31734 (v.9)
+  - Larva ALB: 31735 (v.6)
+  - Imago SCH: 31736 (v.4)
+  - Larva SCH: 31737 (v.3)
+- flower availability: 4302 (v.2) and 4964 (v.2)
+- flower visitation: 10160 (v.3)
 
 > [!NOTE]
 > check that the datasets are named the same as in the scripts so you can run the analyses with no problem. 
