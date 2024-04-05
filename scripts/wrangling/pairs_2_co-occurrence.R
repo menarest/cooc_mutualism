@@ -34,7 +34,6 @@
 #'                      than the observed frequency
 #' std_effects:         Standardized effect sizes = (obs - exp)/No. of sites
 
-names(pairs)
 
 # Set up --------------------------------------------------------------
 
