@@ -10,16 +10,25 @@ To run all analyses from scratch including data wrangling and prepararion steps,
 - butterflies: 12526 (1.8.19)
 - species taxonomy table: 31733 (6)
 - species interactions:
--   Imago ALB: 31734 (7)
--   Larva ALB: 31735 (3)
--   Imago SCH: 31736 (2)
--   Larva SCH: 31737 (2)
+  - Imago ALB: 31734 (7)
+  - Larva ALB: 31735 (3)
+  - Imago SCH: 31736 (2)
+  - Larva SCH: 31737 (2)
 - flower availability: 4302 (2) and 4964 (2)
 - flower visitation: 10160 (3)
 
-NOTE: check that the datasets are named the same as in the scripts so you can run the analyses with no problem. 
+> [!NOTE]
+> check that the datasets are named the same as in the scripts so you can run the analyses with no problem. 
 
 If you prefer to run only the accuracy and data validation analyses use this dataset from BExIS: 31738 (3) #TODO add DOI once available
 
 # Steps: 
-#TODO... add steps on how to run the scripts... tidy.. 1, 2, 3.. etc
+1. run the [data_tidy script](scripts/data_tidy.R) to clean and tidy the datasets
+2. continue with the pairs files in order (pairs_1.., 2, 3, and 4)
+3. run the files in the [scripts/analysis folder](scripts/analysis) in this order:
+   - accuracy_co-occurrence
+   - modeling_trophint_cooccur
+   - troph_data_validation
+   - matrices_cooccur
+
+This should generate all files and plots of the paper and place them into the already folders.
