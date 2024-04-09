@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10931679.svg)](https://doi.org/10.5281/zenodo.10931679)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10931678.svg)](https://doi.org/10.5281/zenodo.10931678)
 
 # Supplementary code for analyses of Menares et al. (in review), "Co-occurrence patterns do not predict mutualistic interactions between plant and butterfly species".
 
@@ -6,23 +6,23 @@ This repository contains the analysis done for Menares et al. (in review), which
 
 # Requirements: 
 
-To run all analyses from scratch including data wrangling and prepararion steps, you will need to download the data from BExIS using the IDs (and version): 
+To run all analyses from scratch including data wrangling and prepararion steps, you will need to download the data from BExIS using the IDs: 
 
-- plants: 23586 (1.3.1)
-- butterflies: 12526 (1.8.19)
-- species taxonomy table: 31733 (7)
+- plants: 23586 (v.2)
+- butterflies: 12526 (v.2)
+- species taxonomy table: 31733 (v.8)
 - species interactions:
-  - Imago ALB: 31734 (7)
-  - Larva ALB: 31735 (3)
-  - Imago SCH: 31736 (2)
-  - Larva SCH: 31737 (2)
-- flower availability: 4302 (2) and 4964 (2)
-- flower visitation: 10160 (3)
+  - Imago ALB: 31734 (v.9)
+  - Larva ALB: 31735 (v.6)
+  - Imago SCH: 31736 (v.4)
+  - Larva SCH: 31737 (v.3)
+- flower availability: 4302 (v.2) and 4964 (v.2)
+- flower visitation: 10160 (v.3)
 
 > [!NOTE]
 > check that the datasets are named the same as in the scripts so you can run the analyses with no problem. 
 
-If you prefer to run only the accuracy and data validation analyses use this dataset from BExIS: 31738 (3) #TODO add DOI once available
+If you prefer to run only the accuracy and data validation analyses use this dataset from BExIS: 31738 (5) #TODO add DOI once available
 
 # Steps: 
 1. run the [data_tidy script](scripts/wrangling/data_tidying.R) to clean and tidy the datasets
