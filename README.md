@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10931679.svg)](https://doi.org/10.5281/zenodo.10931679)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10931678.svg)](https://doi.org/10.5281/zenodo.10931678)
 
 # Supplementary code for analyses of Menares et al. (in review), "Co-occurrence patterns do not predict mutualistic interactions between plant and butterfly species".
 
