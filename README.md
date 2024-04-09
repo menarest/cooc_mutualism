@@ -22,7 +22,7 @@ To run all analyses from scratch including data wrangling and prepararion steps,
 > [!NOTE]
 > check that the datasets are named the same as in the scripts so you can run the analyses with no problem. 
 
-If you prefer to run only the accuracy and data validation analyses use this dataset from BExIS: 31738 (5) #TODO add DOI once available
+If you prefer to run only the accuracy and data validation analyses use this dataset from BExIS: 31738 (7) #TODO add DOI once available
 
 # Steps: 
 1. run the [data_tidy script](scripts/wrangling/data_tidying.R) to clean and tidy the datasets
