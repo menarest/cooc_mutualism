@@ -1092,3 +1092,21 @@ dim_no_NA_no_zero <- function(x, ref_NA_row = ref_NA_row){
     filter(rowSums(across(everything())) > 0) %>%
     dim()
 }
+
+
+
+
+# 20. True rounding of numbers   ----------------------------------------------
+
+
+# round non-integer numbers to X decimal places using a function for true logical rounding instead of the round-to-even IEC 60559 standard used in R's round().
+# https://stackoverflow.com/questions/12688717/round-up-from-5
+
+true_round <- function(number, digits) {
+  posneg <- sign(number)
+  number <- abs(number) * 10^digits
+  number <- number + 0.5 + sqrt(.Machine$double.eps)
+  number <- trunc(number)
+  number <- number / 10 ^ digits
+  number * posneg
+}
