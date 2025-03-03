@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10931678.svg)](https://doi.org/10.5281/zenodo.10931678)
 
-# Supplementary code for analyses of Menares et al. (2024), "Co-occurrence patterns do not predict mutualistic interactions between plant and butterfly species".
+# Supplementary code for analyses of Menares, E., Saíz, H., Schenk, N., de la Riva, E.G., Krauss, J., Birkhofer, K., 2024. Co-Occurrence Patterns Do Not Predict Mutualistic Interactions Between Plant and Butterfly Species. Ecology and Evolution, 14, e70498. https://doi.org/10.1002/ece3.70498
 
-This repository contains the analysis done for Menares et al. (in review), which compares the accuracy of existing co-occurrence methods for estimating pairwise species interactions between plants and butterfly species from observational occurrence (P/A and abundance) data against species interactions estimated experimentally from long-term flower visitation data. 
+This repository contains the analysis done for Menares et al. (2024), which compares the accuracy of existing co-occurrence methods for estimating pairwise species interactions between plants and butterfly species from observational occurrence (P/A and abundance) data against species interactions estimated experimentally from long-term flower visitation data. 
 
 # Requirements: 
 
